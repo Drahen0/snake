@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_assert.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_atomic.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_audio.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_bits.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_blendmode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_clipboard.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_copying.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_cpuinfo.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_egl.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_endian.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_error.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_events.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_filesystem.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_gamecontroller.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_gesture.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_guid.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_haptic.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_hidapi.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_hints.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_joystick.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_keyboard.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_keycode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_loadso.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_locale.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_log.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_main.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_messagebox.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_metal.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_misc.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_mouse.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_mutex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_name.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengl.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengl_glext.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles2.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles2_gl2.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles2_gl2ext.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles2_gl2platform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_opengles2_khrplatform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_pixels.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_platform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_power.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_quit.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_rect.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_render.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_rwops.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_scancode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_sensor.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_shape.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_stdinc.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_surface.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_system.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_syswm.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_assert.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_common.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_compare.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_crc32.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_font.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_fuzzer.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_harness.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_images.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_log.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_md5.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_memory.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_test_random.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_thread.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_timer.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_touch.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_types.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_version.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_video.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\SDL_vulkan.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\begin_code.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\5158eaf682dbc23bc183661275a504ef\close_code.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\ce18018cc3219e4aedcef0365ccaf64f\sdl_headers_copy.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\sdl-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\sdl-build\CMakeFiles\sdl_headers_copy" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6EF579DC-4112-3318-AB4F-6C38955C51A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

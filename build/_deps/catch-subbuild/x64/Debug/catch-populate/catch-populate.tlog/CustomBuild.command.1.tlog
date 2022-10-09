@@ -1,0 +1,150 @@
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/tmp/catch-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/tmp/catch-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\catch-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/tmp/catch-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\catch-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\catch-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\catch-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\7A1EF37F7F06A783B7B39D51C9DD2FF0\CATCH-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\catch-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\83876292A65932A0C347AE4511CA339B\CATCH-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/Debug/catch-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/catch-populate-prefix/src/catch-populate-stamp/Debug/catch-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKEFILES\3600294D3CF6240A0542E0518D75A7C4\CATCH-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GUILLAUME\DOCUMENTS\GITHUB\SNAKE\BUILD\_DEPS\CATCH-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild -BC:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild --check-stamp-file C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,8 @@
+{
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "C:/Users/Guillaume/Documents/GitHub/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  },
+  "files.associations": {
+    "xstring": "cpp"
+  }
+}

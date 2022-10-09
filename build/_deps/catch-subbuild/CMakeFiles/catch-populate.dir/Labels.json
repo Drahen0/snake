@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/catch-populate"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/3600294d3cf6240a0542e0518d75a7c4/catch-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/83876292a65932a0c347ae4511ca339b/catch-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Guillaume/Documents/GitHub/snake/build/_deps/catch-subbuild/CMakeFiles/7a1ef37f7f06a783b7b39d51c9dd2ff0/catch-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch-populate"
+		],
+		"name" : "catch-populate"
+	}
+}

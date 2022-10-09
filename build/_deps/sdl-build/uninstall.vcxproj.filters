@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\CMakeFiles\ce18018cc3219e4aedcef0365ccaf64f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\sdl-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Guillaume\Documents\GitHub\snake\build\_deps\sdl-build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6EF579DC-4112-3318-AB4F-6C38955C51A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
