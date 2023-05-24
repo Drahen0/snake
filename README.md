@@ -11,6 +11,7 @@ Table of Contents
     Usage
     Controls
     License
+    Contact
 
 ## Features
 
@@ -32,7 +33,13 @@ Here are the controls for the game:
         Press S to save the game.
         Press R to load a saved game.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Contact
 
 Feel free to explore and enjoy the game! If you have any questions or feedback, please let me know.
 You can also edit/upgrade the game or report bugs. (Even if i'm not sure if i will update it.)
+
+
